@@ -7,5 +7,5 @@ def add(a,b){
 }
 
 def sub(a,b){
-  echo "substration pd ${a} from ${b} is ${b-a}"
+  echo "substration of ${a} from ${b} is ${b-a}"
 }
